@@ -67,13 +67,6 @@
     </url>
 
     <url>
-        <loc>https://cbclandscaping.net/service-Irrigation-System-Installation</loc>
-        <lastmod>2022-05-19</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-
-    <url>
         <loc>https://cbclandscaping.net/service-Irrigation-Maintenance-and-Repair</loc>
         <lastmod>2022-05-19</lastmod>
         <changefreq>weekly</changefreq>
@@ -88,6 +81,13 @@
     </url>
 
     <url>
+        <loc>https://cbclandscaping.net/service-Irrigation-System-Installation</loc>
+        <lastmod>2022-05-19</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
         <loc>https://cbclandscaping.net/service-Sod-Layouts</loc>
         <lastmod>2022-05-19</lastmod>
         <changefreq>weekly</changefreq>
@@ -95,7 +95,7 @@
     </url>
 
     <url>
-        <loc>https://cbclandscaping.net/service-Skid-Steer-Work</loc>
+        <loc>https://cbclandscaping.net/service-Skid-Steer-and-Lot-Clearing-and-Excavation</loc>
         <lastmod>2022-05-19</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
@@ -103,6 +103,27 @@
 
     <url>
         <loc>https://cbclandscaping.net/service-Mulch-Installation</loc>
+        <lastmod>2022-05-19</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://cbclandscaping.net/service-Hardscaping</loc>
+        <lastmod>2022-05-19</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://cbclandscaping.net/service-Gravel-Driveways</loc>
+        <lastmod>2022-05-19</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://cbclandscaping.net/service-Drainage-Installation</loc>
         <lastmod>2022-05-19</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
