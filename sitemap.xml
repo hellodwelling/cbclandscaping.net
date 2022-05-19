@@ -2,3 +2,110 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <url>
+        <loc>https://cbclandscaping.net/index</loc>
+        <lastmod>2022-05-19</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://cbclandscaping.net/store</loc>
+        <lastmod>2022-05-19</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://cbclandscaping.net/jobs</loc>
+        <lastmod>2022-05-19</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://cbclandscaping.net/teams</loc>
+        <lastmod>2022-05-19</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://cbclandscaping.net/reviews</loc>
+        <lastmod>2022-05-19</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://cbclandscaping.net/gallery-All</loc>
+        <lastmod>2022-05-19</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://cbclandscaping.net/gallery-Lawn-Care</loc>
+        <lastmod>2022-05-19</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://cbclandscaping.net/gallery-Landscaping</loc>
+        <lastmod>2022-05-19</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://cbclandscaping.net/gallery-Irrigation-and-Hardscaping</loc>
+        <lastmod>2022-05-19</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://cbclandscaping.net/service-Irrigation-System-Installation</loc>
+        <lastmod>2022-05-19</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://cbclandscaping.net/service-Irrigation-Maintenance-and-Repair</loc>
+        <lastmod>2022-05-19</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://cbclandscaping.net/service-Mowing-and-Aeration</loc>
+        <lastmod>2022-05-19</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://cbclandscaping.net/service-Sod-Layouts</loc>
+        <lastmod>2022-05-19</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://cbclandscaping.net/service-Skid-Steer-Work</loc>
+        <lastmod>2022-05-19</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://cbclandscaping.net/service-Mulch-Installation</loc>
+        <lastmod>2022-05-19</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+</urlset>
